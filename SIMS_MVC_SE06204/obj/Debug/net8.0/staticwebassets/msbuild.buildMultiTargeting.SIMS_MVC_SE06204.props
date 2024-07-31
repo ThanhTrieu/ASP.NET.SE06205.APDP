@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SIMS_MVC_SE06204.props" />
+</Project>
